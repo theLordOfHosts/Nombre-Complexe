@@ -1,0 +1,7 @@
+C:\Users\Israel-Lambi\AppData\Local\Temporary Projects\Nombre Complexe\bin\Debug\Nombre Complexe.exe.config
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\bin\Debug\Nombre Complexe.exe.config
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\bin\Debug\Nombre Complexe.exe
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\bin\Debug\Nombre Complexe.pdb
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\obj\Debug\Nombre Complexe.csprojResolveAssemblyReference.cache
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\obj\Debug\Nombre Complexe.exe
+C:\Users\Israel-Lambi\Documents\Visual Studio 2015\Projects\Nombre Complexe\Nombre Complexe\obj\Debug\Nombre Complexe.pdb
